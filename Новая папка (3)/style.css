@@ -1,0 +1,141 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.group {
+    background-color: #027871;
+    height: 60px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    
+}
+.group2{
+    display: flex;
+    margin-bottom: 120px;
+}
+
+.text {
+    font-family: 'Bauhaus 93';
+    color: #fff;
+    font-size: 25px;
+}
+
+.img {
+    padding: 0 20px;
+}
+
+.text_2 {
+    position: absolute;
+    right: 25px;
+    font-family: 'Inter', sans-serif;
+    color: #fff;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Inter';
+    font-size: 12px;
+}
+
+.a1 {
+    margin-left: 7%;
+    transition: 0.4s;
+    font-size: 14px;
+}
+
+.a2 {
+    margin-left: 9%;
+    transition: 0.4s;
+    font-size: 14px;
+}
+
+.a3 {
+    margin-left: 11%;
+    transition: 0.4s;
+    font-size: 14px;
+}
+
+.a4 {
+    margin-left: 13%;
+    transition: 0.1s;
+    font-size: 14px;
+}
+.a1:hover{
+    transition: 0.1s;
+    font-size: 15px;
+}
+.a2:hover{
+    transition: 0.1s;
+    font-size: 15px;
+}
+.a3:hover{
+    transition: 0.1s;
+    font-size: 15px;
+}
+.a4:hover{
+    transition: 0.1s;
+    font-size: 15px;
+}
+
+.infa {
+    display: flex;
+    width: 800px;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.text1_1 {
+    font-family: 'Inter';
+    font-size: 30px;
+    width: 440px;
+    margin-left: 70px;
+    margin-top: 150px;
+}
+
+.text1_2 {
+    color: #797979;
+    font-size: 18px;
+    width: 400px;
+    margin-left: 70px;
+    margin-top: 20px;
+    margin-bottom: 29px;
+}
+
+.a1_1 {
+
+    padding: 15px;
+    border: 2px solid #77284E;
+    border-radius: 30px;
+    margin-left: 70px;
+    transition: 0.4s;
+    color: #77284E;
+}
+
+.a1_1:hover {
+    background-color: #77284E;
+    padding: 15px;
+    border-radius: 30px;
+    margin-left: 70px;
+    transition: 0.4s;
+    color: #fff;
+    box-shadow: 0 4px 16px #77284E;
+}
+.left{
+    background: #E2D9B0;
+    width: 500px;
+    height: 320px;
+    border-radius: 30px;
+    margin-top: 130px;
+    margin-left: 170px;
+    box-shadow: 0 4px 16px #0706008f;
+}
+.group3{
+    width: auto;
+    height: 100px;
+    background-color: #80B7B3;;
+}
